@@ -143,6 +143,9 @@
 }
 .header-titulo{
     margin: 4vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .header-titulo-calculadora{
