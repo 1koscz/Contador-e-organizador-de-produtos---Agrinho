@@ -110,10 +110,7 @@
     padding: 30px;
 }
 
-.rodape-imagem {
-    height: 80px;
-    padding: 12px 960px; 
-}
+
 
 .lado_2{
     height: 50px; 
@@ -251,12 +248,10 @@
 * {margin: 0; padding: 0;}
 
 .cabeçalho {
-    background-color: #20b3c7; 
-    color:black;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+    background-color:#033270;
+    text-align: center; 
+    height: 100px;
+    padding: 30px;
 }
 
 
@@ -285,42 +280,14 @@
 
 .projeto-titulo {
     padding: 24px 0;
-}
-
-.projeto-imagem {
-    width: 25%;
-    margin-left: 650px;
-    margin-top: -100px;
-}
-
-.estudante-imagem {
-    width: 100px;
-}
-
-.estudante-div {
-    text-align: center;
-    display: inline-block; 
-    margin-left: 290px;
-    margin-bottom: 50px;
-}
-
-.estudante-texto { 
-    margin-top: 15px;
-}
-
-.estudante-titulo {
-    text-align: center; 
-    padding: 50px 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .rodape {
     background-color:#119edf;
     text-align: center; 
-}
-
-.rodape-imagem {
-    height: 80px;
-    padding: 12px 0; 
 }
 
 
