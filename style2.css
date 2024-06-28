@@ -133,6 +133,11 @@
     margin: 13vh;
     text-align: center;
 }
+
+.projeto-titulo{
+    font-size: 1.5rem
+}
+
 .navbar {
     height: 9vh;
 }
@@ -246,6 +251,7 @@
 
 .projeto-titulo2 {
     padding: 24px 0;
+    font-size: 1.5rem
 }
 
 .projeto2{
@@ -256,6 +262,7 @@
 .projeto-titulo3 {
     padding: 24px 0;
     text-align: center;
+    font-size: 1.5rem;
 }
 
 .projeto3{
