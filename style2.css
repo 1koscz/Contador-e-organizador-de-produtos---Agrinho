@@ -1,7 +1,7 @@
 * {margin: 0; padding: 0;}
 
 .cabeçalho {
-    background-color: #ffffff; 
+    background-color: #32619b; 
     color:rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -127,7 +127,7 @@
     border-color: white;
 }
 .cabeçalho {
-    height: 45vh;
+    height: 15vh;
     flex-direction: column;
 }
 .projeto{
