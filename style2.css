@@ -1,7 +1,7 @@
 * {margin: 0; padding: 0;}
 
 .cabeçalho {
-    background-color: #32619b; 
+    background-color: #ffffff; 
     color:rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -127,7 +127,7 @@
     border-color: white;
 }
 .cabeçalho {
-    height: 15vh;
+    height: 45vh;
     flex-direction: column;
 }
 .projeto{
@@ -259,7 +259,7 @@
     padding: 24px 0;
 }
 
-.projeto3{
+.projeto-texto3{
     margin: 8vh;
     text-align: center;
 }
