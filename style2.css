@@ -7,6 +7,8 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    height: 15vh;
+    flex-direction: column;
 }
 
 .cabeçalhobiotecnologia {
@@ -126,10 +128,7 @@
     color: white !important;
     border-color: white;
 }
-.cabeçalho {
-    height: 15vh;
-    flex-direction: column;
-}
+
 .projeto{
     margin: 13vh;
     text-align: center;
